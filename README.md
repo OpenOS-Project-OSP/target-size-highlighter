@@ -1,4 +1,6 @@
 # target size highlighter
+
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/target-size-highlighter) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
 A set of bookmarklets to help visualise the size of pointer-input targets on webpages.
 
 These bookmarklets are being released under the MIT licence, to match the licensing of the CSS-inject tool I used.
